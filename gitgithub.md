@@ -1,0 +1,1 @@
+この記事は[Git Advent Calendar 2015](http://qiita.com/advent-calendar/2015/git)の16日目の記事です。

@@ -261,12 +261,20 @@ Git のような分散バージョン管理システムになるとリモート�
 > 人生は進歩です  
 > 若い時代は準備のときであり、  
 > 最上のものは過去にあるのではなく将来にあります  
+
 via NHK連続テレビ小説「花子とアン」 卒業式でのブラックバーン校長のスピーチ
 
 > まずは一歩進む。それができたら、また一歩進む。それを繰り返していく内にいつの間にか、遠くへいける。その一歩を踏み出す為に、時には愚かな勇気みたいなものが必要かもしれない  
-会社の上司の言葉
+
+via 上司の言葉
 
 > あなたは時間を味方につける必要があるということ、そして毎日前へ進む必要があるということだ。遅かれ早かれあなたは勝つだろう。  
+
 via [射撃しつつ前進 - Joel Spolsky](http://japanese.joelonsoftware.com/Articles/FireAndMotion.html)
 
 実はとても単純な仕組みがあって、時間を味方につける
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">もしかすると、「おじさん」とは、今進んでいる道で本当にあっているか不安なとき、先が見えずに進んでいるのか後退してるのか不安なときに「大丈夫だ、問題ない」と背中を押す人たちの称号なのかもしれない。</p>&mdash; YutakaKINJO (@Yutaka_Kinjyo) <a href="https://twitter.com/Yutaka_Kinjyo/status/637502493337915392">August 29, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+https://twitter.com/Yutaka_Kinjyo/status/637502493337915392

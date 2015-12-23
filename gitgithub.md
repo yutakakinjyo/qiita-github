@@ -270,7 +270,7 @@ via 上司の言葉
 
 > あなたは時間を味方につける必要があるということ、そして毎日前へ進む必要があるということだ。遅かれ早かれあなたは勝つだろう。  
 
-via [射撃しつつ前進 - Joel Spolsky](http://japanese.joelonsoftware.com/Articles/FireAndMotion.html)
+&mdash; [射撃しつつ前進 - Joel Spolsky](http://japanese.joelonsoftware.com/Articles/FireAndMotion.html)
 
 実はとても単純な仕組みがあって、時間を味方につける
 

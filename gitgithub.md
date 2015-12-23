@@ -6,7 +6,7 @@
 ある程度、Git, GitHub の知識があり、これから現場に GitHub を普及させたい方に有用な記事かもしれません。
 技術的な Tips は少なめです。
 
-# GitHub を普及させる時の要点
+### 目次
 
 どうも、[GitHub おじさん](http://www.slideshare.net/yutakakinjyo/github-36864200)、または [一度死んだおじさん](http://www.slideshare.net/yutakakinjyo/hackerscample-lt-49900119) こと沖縄の金城です。GitHubについてと人に説明する機会や導入する機会が多いので、その経験から、どんなことに注意しながら進めていけばいいか書いてみます。
 
@@ -32,7 +32,7 @@
 
 紹介編では、GitHub とは何か、とういことを人に説明するときの要点を書き出します。
 
-### Git はバージョン管理ツール、 GitHub は Git のホスティングサービス
+#### Git はバージョン管理ツール、 GitHub は Git のホスティングサービス
 
 まず、一番初めに説明することはこうです。
 
